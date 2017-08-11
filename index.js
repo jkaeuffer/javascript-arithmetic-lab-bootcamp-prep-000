@@ -20,4 +20,4 @@ function inc(n) {
 
 return dec(n) {
   return n --
-}
+};
